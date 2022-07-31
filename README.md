@@ -1,3 +1,3 @@
-React Redux counting project
+React Redux blog project
 
 ### `npm start`
