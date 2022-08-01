@@ -1,3 +1,3 @@
-React Redux blog project
+React Redux project featuring async
 
 ### `npm start`
